@@ -1,108 +1,79 @@
-name: John Doe
-support_dark_mode: true
-fork: true
+name: FEA ALYANA GARCIA
+support_dark_mode: false
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: fajviray@gmail.com
+  github: fajviray
+  linkedin: alyanagarcia
+  phone:
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  #- idiom: English
+  #- idiom: Filipino
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
   - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+    time: 2009-2013
+    university: Ateneo de Davao University
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Ruby on Rails
+      - PostgreSQL
+      - Redis / MongoDB
   - category: Frontend
     skill:
+      - JavaScript
+      - Angular
       - React
-      - Typescript
   - category: DevOps
     skill:
-      - Docker
-      - Kubernetes 
+      - AWS
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Ruby on Rails developer with significant experience in modern JavaScript frameworks.
+  Ability to work with cloud hosting platforms. 
+  Experience with writing automated tests, working with a remote team, and regularly achieve consensus with peers, and clear status updates
+  
 
 # Experience
 experience:
   - role: Software Engineer
-    time: 2020-Present
-    company: Google
+    time: 2016-Present
+    company: SourcePad
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Develop web applications using Ruby on Rails, Angular, React and various technologies.
+      Conduct thorough unit, integration, and automated testing. Maintain CI/CD pipeline and perform code reviews.
+      Collaborate with product owners, managers, architects, and other engineers to maintain a high benchmark for quality in a fast-paced, iterative environment.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Ruby on Rails, JavaScript, Angular, React, AWS, PostgreSQL
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Senior Web Developer
+    time: 2013-2016
+    company: Synergia BPO Solutions
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Developed and improved existing systems.
+      Ensure all parts of these systems successfully co-exist using integration testing.
+      Collaborated with teams to analyze, evaluate, and provide conclusive system enhancements.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      PHP, Ruby on Rails, MySQL
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: SMS360
+    link: https://www.sms360.com/
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
+      It is a simple, centralized solution that helps streamline compliance and risk management, reduce accidents, and send employees home safely every day.
+  - title: Realm
+    link: https://www.realm.fm/
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Formerly Serial Box, is an American audio entertainment company that creates original fiction podcasts and audiobook series, which include continuations of TV series.
 
-# Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
