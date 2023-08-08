@@ -45,7 +45,7 @@ profile: |
 # Experience
 experience:
   - role: Software Engineer
-    time: 2016-Present
+    time: 2016-2023
     company: SourcePad
     details: |
       Develop web applications using Ruby on Rails, Angular, React and various technologies.
